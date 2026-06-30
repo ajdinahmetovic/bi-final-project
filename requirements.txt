@@ -1,0 +1,6 @@
+pandas
+psycopg2-binary
+python-dotenv
+mcp[cli]
+anthropic
+tabulate
